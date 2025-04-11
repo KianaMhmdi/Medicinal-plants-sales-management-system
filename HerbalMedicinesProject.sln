@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HerbalMedicinesProject", "HerbalMedicinesProject\HerbalMedicinesProject.csproj", "{68739890-4CBA-46BC-9A84-4E64D8B792AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68739890-4CBA-46BC-9A84-4E64D8B792AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68739890-4CBA-46BC-9A84-4E64D8B792AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68739890-4CBA-46BC-9A84-4E64D8B792AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68739890-4CBA-46BC-9A84-4E64D8B792AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EEC094F0-97D9-41A2-B344-1BAAFB642897}
+	EndGlobalSection
+EndGlobal
